@@ -57,6 +57,8 @@
     "סייר הקבצים",
     "code",
     "github",
+    "youtube-block-thing",
+    "youtube block thing",
     "visual studio",
     "music",
     "coding",
