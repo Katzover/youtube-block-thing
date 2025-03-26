@@ -56,6 +56,7 @@
     "c#",
     "סייר הקבצים",
     "code",
+    "github",
     "visual studio",
     "music",
     "coding",
