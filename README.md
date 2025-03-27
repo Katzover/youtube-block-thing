@@ -21,6 +21,7 @@
     "world of tanks",
     "browserling",
     "krunker",
+    "shorts",
     "פופקה",
     "roblox",
     "crazygames",
