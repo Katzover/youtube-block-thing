@@ -3,6 +3,8 @@
     "youtube",
     "tanki",
     "poki",
+    "epic games",
+    "fortnite",
     "יויו",
     "netflix",
     "shell shockers",
